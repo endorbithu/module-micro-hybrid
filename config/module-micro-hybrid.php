@@ -6,6 +6,10 @@ return [
 
     ],
 
+    'namespace_prefix_of_module' = null,
+
+    'namespace_prefix_of_api' = null
+
     'ip_filter' => true,
 
     'allowed_ips' => [
